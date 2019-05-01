@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242456886421",
+    "firebase_url": "https://clickbus-ed0f6.firebaseio.com",
+    "project_id": "clickbus-ed0f6",
+    "storage_bucket": "clickbus-ed0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242456886421:android:55726c5219ddd261",
+        "android_client_info": {
+          "package_name": "com.exomatik.clickbus.clickbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242456886421-58cbs0chqt2skn1usj0a1g5l6067i2rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exomatik.clickbus.clickbus",
+            "certificate_hash": "6d09a41daf8e3ea3540b260ae1f4878b04cd8166"
+          }
+        },
+        {
+          "client_id": "242456886421-nopf4los2os6hqm69lfqkicqm104t20q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCENqN1YC1Mcr-UL7PxWPW8kaCp2X0dlPM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242456886421-nopf4los2os6hqm69lfqkicqm104t20q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

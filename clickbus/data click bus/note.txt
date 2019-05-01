@@ -1,0 +1,6 @@
+1. Input data perwakilan, id increment
+2. Periksa rute perwakilan, jika belum ada dalam data rute maka tambahkan rute baru dan sub rute baru
+3. tambah jenis bus relasikan dengan perwakilannya
+4. tambahkan bus dan relasikan dengan jenis bus nya dan perwakilannya
+5. buat jadwal reguler sesuai dengan jadwal perwakilan yg sebenarnnya, relasikan jadwal dengan perwakilan, bus dan rute, untuk supir kosongkan
+6. buat sub jadwal reguler berdasarkan id jadwal, id sub rute dan sub tujuan dari sub rute. harga buat sama dengan jadwal

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mg_small">5dp</dimen>
+    <dimen name="mg_standard">10dp</dimen>
+    <dimen name="mg_normal">15dp</dimen>
+    <dimen name="mg_big">20dp</dimen>
+
+    <dimen name="text_title">17sp</dimen>
+    <dimen name="text_isi">14sp</dimen>
+
+</resources>
